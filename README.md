@@ -1,7 +1,10 @@
 # todolist
 download this repository.
 then navigate to the root folder in any terminal e.g hyperterminal or vscode terminal where you'll see server.js etc file.
-then run command : nodemon server.js
+then run command : 
+1. npm install  <-- to install required packages. after npm install finised executing run :- nodemon server.js
+2. nodemon server.js <--- to run the server.
+
 Note:- this will run on port 4000 not 3000.
 server will start running and listening to requests
 
